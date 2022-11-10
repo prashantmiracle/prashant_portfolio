@@ -1,0 +1,7 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: auto;
+  background-color: red;
+}
