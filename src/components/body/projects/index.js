@@ -9,7 +9,7 @@ export function Projects() {
       <label className="section-title">Projects</label>
       <div>
         {data.map((project) => {
-          return <ProjectCard />;
+          return <ProjectCard project={project} />;
         })}
       </div>
     </div>
