@@ -1,0 +1,12 @@
+.skill-card {
+  width: max-content;
+  padding: 8px 16px;
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 6px;
+  border-radius: 8px;
+  background-color: aqua;
+}
