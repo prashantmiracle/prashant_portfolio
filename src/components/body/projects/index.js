@@ -7,11 +7,9 @@ export function Projects() {
   return (
     <div className="projects">
       <label className="section-title">Projects</label>
-      <div>
-        {data.map((project) => {
-          return <ProjectCard project={project} />;
-        })}
-      </div>
+      {data.map((project) => {
+        return <ProjectCard project={project} />;
+      })}
     </div>
   );
 }
