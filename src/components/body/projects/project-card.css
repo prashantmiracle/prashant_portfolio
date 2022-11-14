@@ -15,6 +15,7 @@
 .project-title {
   font-size: 20px;
   font: weight 600px;
+  padding: 10px;
 }
 .project-tags {
   display: flex;
@@ -64,8 +65,7 @@
     margin-left: 0px;
     margin-top: 12px;
   }
-  .project-tags{
+  .project-tags {
     max-width: 100%;
-    
   }
 }

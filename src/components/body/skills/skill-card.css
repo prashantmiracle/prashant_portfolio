@@ -10,3 +10,18 @@
   border-radius: 8px;
   background-color: aqua;
 }
+.skill-icon {
+  font-size: 80px;
+}
+.skill-name {
+  font-size: 18px;
+}
+@media only screen and (max-width: 720px) {
+  .skill-card {
+    width: max-content;
+    height: 100px;
+  }
+  .skill-icon {
+    font-size: 60px;
+  }
+}
