@@ -6,16 +6,16 @@ export function ProjectCard({ project }) {
     <div className="project-card">
       <div className="project-info">
         <label className="project-title">{project.title}</label>
-        <div className="projects-link">
+        <div className="project-links">
           {project.demo && (
-            <a className="project-link" href={project.demo}>
+            <a className="project-links" href={project.demo}>
               <div className="link-button">
                 <i class="fi fi-rr-globe"></i>
               </div>
             </a>
           )}
           {project.github && (
-            <a className="project-link" href={project.github}>
+            <a className="project-links" href={project.github}>
               <div className="link-button">
                 <i class="devicon-github-original colored"></i>Github
               </div>

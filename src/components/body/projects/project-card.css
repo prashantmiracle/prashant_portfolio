@@ -33,6 +33,7 @@
   text-decoration: none;
   color: black;
 }
+
 .project-links {
   margin-top: 6px;
   display: flex;
@@ -49,10 +50,9 @@
   margin-left: 6px;
 }
 .link-button i {
-  text-decoration: none;
   display: flex;
   align-items: center;
-  mask-repeat: 4px;
+  mask-repeat: 3px;
 }
 
 @media only screen and (max-width: 720px) {
