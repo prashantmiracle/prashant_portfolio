@@ -49,6 +49,7 @@
   margin-left: 6px;
 }
 .link-button i {
+  text-decoration: none;
   display: flex;
   align-items: center;
   mask-repeat: 4px;
