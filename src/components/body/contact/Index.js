@@ -1,5 +1,29 @@
 import React from "react";
-
+import { Seperator } from "../../common/seperator";
+import SocialContact from "../../common/socialcontact";
+import "./contact.css";
 export function Contact(props) {
-  return <>this is contact</>;
+  return (
+    <div className="contact">
+      {" "}
+      <Seperator />
+      <label className="section-title">Contact</label>
+      <div className="contact-container">
+        <div className="contact-left">
+          <p>Connect me on any of the platform </p>
+
+          <SocialContact />
+        </div>
+        <div className="download">
+          <a
+            download
+            href={require("../../../assets/prashant_aayushmaa.pdf").default}
+          >
+            <i class="fi-rr-cloud-download download-icon" />
+            Download Resume{" "}
+          </a>
+        </div>
+      </div>
+    </div>
+  );
 }
