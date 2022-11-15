@@ -15,7 +15,7 @@ export function Contact(props) {
           <SocialContact />
         </div>
         <div className="download">
-          <a download href={require("../../../assets/prashant_aayushmaa.pdf")}>
+          <a href={require("../../../assets/prashant_aayushmaa.pdf")}>
             <i class="fi-rr-cloud-download download-icon" />
             Download Resume{" "}
           </a>
