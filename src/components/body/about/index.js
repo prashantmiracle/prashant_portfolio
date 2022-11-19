@@ -8,8 +8,10 @@ export function About() {
       <div className="about-top">
         <div className="about-info">
           I love to fuse{" "}
-          <span className="info-name">fashion and technology</span>
-          <br />I build the future with technology.
+          <span className="info-name">A fashion technologist</span>
+          <br /> who has worked across the globe in fashion and e-commerce
+          industries and roles. Currently employed in a variety of roles in
+          retail strategy management and business planning. 
         </div>
         <div className="about-photo">
           <img
