@@ -7,11 +7,10 @@ export function About() {
     <div className="about">
       <div className="about-top">
         <div className="about-info">
-          <span className="info-name">Prashant Kumar</span> has worked in the
-          fashion industry for over 7 years, and his experience includes
-          positions in Strategy management,Operations and merchandising. He has
-          also consulted for startups and small businesses, helping them to
-          develop and implement strategies for growth and expansion.
+          <span className="info-name">Prashant Kumar</span> loves to fuse
+          fashion and technology. <br /> He is an expert in the fashion tech
+          domain. He loves to be around creative people and loves to hear their
+          stories & dreams.
         </div>
         <div className="about-photo">
           <img
