@@ -27,6 +27,8 @@
   }
   .about-info {
     font-size: 20px;
+    justify-content: space-between;
+    align-items: center;
   }
   .info-name {
     font-size: 26px;
