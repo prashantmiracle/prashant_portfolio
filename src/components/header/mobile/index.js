@@ -20,22 +20,12 @@ export function Mobile({ isOpen, setIsopen }) {
         </div>
         <div className="mobile-option">
           <a href="#certificates">
-            
-<i
-class=
-"fi fi-rr-badge"
-></i>Certificates
+            <i class="fi fi-rr-badge"></i>Certificates
           </a>
         </div>
         <div className="mobile-option">
           <a href="#projects">
             <i class="fi fi-rr-edit-alt option-icon"></i>Projects
-          </a>
-        </div>
-
-        <div className="mobile-option">
-          <a href="#skills">
-            <i class="fi fi-rr-laptop option-icon"></i>Skills
           </a>
         </div>
 
