@@ -1,6 +1,8 @@
 export const EducationsData = [
   {
     type: "Master of Fashion Technology ",
+    batch: "Batch : 2010-12 ",
+    CGPA: "CGPA: 8.2",
     list: [
       {
         name: "National Institute of fashion technology, India",

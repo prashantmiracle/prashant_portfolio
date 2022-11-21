@@ -14,7 +14,14 @@ export function Educations() {
         {data.map((item) => {
           return (
             <div className="educations-section">
-              <label className="educations-section-title">{item.type}</label>
+              <label className="educations-section-title">
+                {item.type} <br />
+                <label className="educations-section-title1">
+                  {item.batch} <br />
+                  {item.CGPA}
+                </label>
+              </label>
+
               <div className="educations-list">
                 {item.list.map((education) => {
                   return <EducationCard education={education} />;
