@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e343da60.css",
-    "main.js": "/static/js/main.6626cbcd.js",
+    "main.css": "/static/css/main.063783a5.css",
+    "main.js": "/static/js/main.5072eb68.js",
     "static/js/787.8f6117cc.chunk.js": "/static/js/787.8f6117cc.chunk.js",
     "static/media/prashant_aayushmaa.pdf": "/static/media/prashant_aayushmaa.759cdfda2dab2356bc66.pdf",
     "static/media/instagram.png": "/static/media/instagram.abaad5368021207f4885.png",
@@ -15,17 +15,18 @@
     "static/media/BUFT.png": "/static/media/BUFT.6a74762397fef26c1482.png",
     "static/media/mern.png": "/static/media/mern.4783ce6d0c0a27da2d57.png",
     "static/media/NIFT.png": "/static/media/NIFT.595b490379591fcbcc88.png",
+    "static/media/R.png": "/static/media/R.384cae152d0685d97e77.png",
     "static/media/in.png": "/static/media/in.a73b869b769a67679160.png",
     "static/media/canva.png": "/static/media/canva.c01697cb3f3c93660269.png",
     "static/media/python.png": "/static/media/python.0529c10edf36212b4d49.png",
     "static/media/ecom.png": "/static/media/ecom.b1d455e00782a0312330.png",
     "index.html": "/index.html",
-    "main.e343da60.css.map": "/static/css/main.e343da60.css.map",
-    "main.6626cbcd.js.map": "/static/js/main.6626cbcd.js.map",
+    "main.063783a5.css.map": "/static/css/main.063783a5.css.map",
+    "main.5072eb68.js.map": "/static/js/main.5072eb68.js.map",
     "787.8f6117cc.chunk.js.map": "/static/js/787.8f6117cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e343da60.css",
-    "static/js/main.6626cbcd.js"
+    "static/css/main.063783a5.css",
+    "static/js/main.5072eb68.js"
   ]
 }
