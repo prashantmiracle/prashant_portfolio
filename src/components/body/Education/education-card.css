@@ -1,0 +1,26 @@
+.education-card {
+  width: max-content;
+  padding: 8px 16px;
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 6px;
+  border-radius: 8px;
+}
+.education-icon {
+  font-size: 80px;
+}
+.education-name {
+  font-size: 18px;
+}
+@media only screen and (max-width: 720px) {
+  .education-card {
+    width: max-content;
+    height: 100px;
+  }
+  .education-icon {
+    font-size: 60px;
+  }
+}
