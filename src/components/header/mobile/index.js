@@ -6,12 +6,13 @@ export function Mobile({ isOpen, setIsopen }) {
       <div className="close-icon" onClick={() => setIsopen(!isOpen)}>
         <i class="fi fi-rr-cross"></i>
       </div>
-      <div className="mobile-option">
-        <a href="#educations">
-          <i class="fi fi-rr-graduation-cap"></i>Education
-        </a>
-      </div>
+
       <div className="mobile-options">
+        <div className="mobile-option">
+          <a href="#educations">
+            <i class="fi fi-rr-graduation-cap"></i>Education
+          </a>
+        </div>
         <div className="mobile-option">
           <a href="#projects">
             <i class="fi fi-rr-edit-alt option-icon"></i>Projects
