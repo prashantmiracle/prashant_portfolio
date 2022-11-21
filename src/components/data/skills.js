@@ -1,31 +1,51 @@
 export const SkillsData = [
   {
-    type: "frontend",
+    type: "Technologies",
     list: [
       {
-        name: "ReactJs",
-        icon: <i class="devicon-react-original-wordmark colored"></i>,
+        name: "MERN",
+        icon: require("../../assets/images/mern.png"),
       },
       {
-        name: "NextJS",
-        icon: <i class="devicon-nextjs-original-wordmark colored"></i>,
+        name: "Excel",
+        icon: require("../../assets/images/excel.png"),
       },
       {
-        name: "Javascript",
-        icon: <i class="devicon-javascript-original-wordmark colored"></i>,
+        name: "Python",
+        icon: <i class="devicon-python-plain colored"></i>,
+      },
+      {
+        name: "Canva",
+        icon: <i class="devicon-canva-original colored"></i>,
+      },
+      {
+        name: "GIT",
+        icon: <i class="devicon-git-plain colored"></i>,
+      },
+      {
+        name: "Numpy",
+        icon: <i class="devicon-numpy-original colored"></i>,
+      },
+      {
+        name: "Postgresql",
+        icon: <i class="devicon-postgresql-plain colored"></i>,
+      },
+      {
+        name: "Anaconda",
+        icon: <i class="devicon-anaconda-original colored"></i>,
       },
     ],
   },
   {
-    type: "Backend",
+    type: "Management",
     list: [
       {
-        name: "C++",
-        icon: <i class="devicon-cplusplus-original-wordmark colored"></i>,
+        name: "Merchandising",
+        icon: require("../../assets/images/merchandising.png"),
       },
       {
         name: "NodeJs",
-        icon: <i class="devicon-nodejs-original-wordmark colored"></i>,
+        icon: <i class="devicon-git-plain colored"></i>,
       },
     ],
   },
