@@ -7,11 +7,7 @@ export default function SkillCard({ skill }) {
       <div className="skill-icon">
         <img src={skill.icon} alt="" />
       </div>
-
-      <div className="skill-name">
-        <br />
-        {skill.name}
-      </div>
+      <div className="skill-name">{skill.name}</div>
     </div>
   );
 }

@@ -32,10 +32,6 @@ export const SkillsData = [
         name: "Datatex - Garment ERP ",
         icon: require("../../assets/images/dt.png"),
       },
-      {
-        name: "Anaconda",
-        icon: <i class="devicon-anaconda-original colored"></i>,
-      },
     ],
   },
   {
