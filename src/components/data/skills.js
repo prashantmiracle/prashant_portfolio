@@ -6,13 +6,10 @@ export const SkillsData = [
         name: "MERN",
         icon: require("../../assets/images/mern.png"),
       },
-      {
-        name: "Excel",
-        icon: require("../../assets/images/excel.png"),
-      },
+
       {
         name: "Python",
-        icon: <i class="devicon-python-plain colored"></i>,
+        icon: require("../../assets/images/python.png"),
       },
       {
         name: "Canva",
@@ -44,8 +41,8 @@ export const SkillsData = [
         icon: require("../../assets/images/merchandising.png"),
       },
       {
-        name: "NodeJs",
-        icon: <i class="devicon-git-plain colored"></i>,
+        name: "E-com Operations",
+        icon: require("../../assets/images/ecom.png"),
       },
     ],
   },
