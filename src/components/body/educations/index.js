@@ -15,8 +15,11 @@ export function Educations() {
           return (
             <div className="educations-section">
               <label className="educations-section-title">
-                {item.type} <br />
+                {item.College}
+                <br />
                 <label className="educations-section-title1">
+                  {item.type}
+                  <br />
                   {item.batch} <br />
                   {item.CGPA}
                 </label>

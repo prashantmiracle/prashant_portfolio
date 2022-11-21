@@ -7,7 +7,7 @@ export default function EducationCard({ education }) {
       <div className="education-icon">
         <img src={education.icon} alt="" />
       </div>
-      <div className="education-name">{education.name}</div>
+      {/* <div className="education-name">{education.name}</div> */}
     </div>
   );
 }
