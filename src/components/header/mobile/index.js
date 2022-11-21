@@ -8,7 +8,7 @@ export function Mobile({ isOpen, setIsopen }) {
       </div>
 
       <div className="mobile-options">
-      <div className="mobile-option">
+        <div className="mobile-option">
           <a href="#skills">
             <i class="fi fi-rr-laptop option-icon"></i>Skills
           </a>
@@ -20,7 +20,11 @@ export function Mobile({ isOpen, setIsopen }) {
         </div>
         <div className="mobile-option">
           <a href="#certificates">
-           <i class="fi fi-rs-diploma"></i>Certificates
+            
+<i
+class=
+"fi fi-rr-badge"
+></i>Certificates
           </a>
         </div>
         <div className="mobile-option">

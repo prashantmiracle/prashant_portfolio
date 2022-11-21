@@ -16,7 +16,7 @@ export function Web() {
       </div>
       <div className="web-option">
         <a href="#certificates">
-          <i class="fi fi-rs-diploma"></i>Certificates
+          <i class="fi fi-rr-badge"></i>Certificates
         </a>
       </div>
       <div className="web-option">
