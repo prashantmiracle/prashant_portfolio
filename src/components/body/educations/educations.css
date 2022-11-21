@@ -1,29 +1,29 @@
-.education {
+.educations {
   display: flex;
   flex-direction: column;
   width: 100%;
 }
-.education-section {
+.educations-section {
   display: flex;
   justify-content: space-between;
   margin: 12px 0px;
 }
-.education-section-title {
+.educations-section-title {
   font-size: 24px;
   font-weight: 600;
 }
-.education-list {
+.educations-list {
   display: flex;
   flex-wrap: wrap;
   max-width: 70%;
   justify-content: flex-end;
 }
 @media only screen and (max-width: 720px) {
-  .education-list {
+  .educations-list {
     max-width: 100%;
     justify-content: center;
   }
-  .education-section {
+  .educations-section {
     flex-direction: column;
     align-items: center;
   }

@@ -6,7 +6,7 @@ import { Skills } from "./skills";
 import { Work } from "./work";
 import { Contact } from "./contact/Index";
 import { About } from "./about";
-import { Education } from "./Education";
+import { Educations } from "./educations";
 
 export default function Body() {
   return (
@@ -14,8 +14,8 @@ export default function Body() {
       <section id="about">
         <About />
       </section>
-      <section id="education">
-        <Education />
+      <section id="educations">
+        <Educations />
       </section>
       <section id="projects">
         <Projects />

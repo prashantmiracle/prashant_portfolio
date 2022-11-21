@@ -1,23 +1,15 @@
 export const EducationsData = [
   {
-    type: "frontend",
+    type: "Master of Fashion Technology ",
     list: [
       {
-        name: "ReactJs",
-        icon: <i class="devicon-react-original-wordmark colored"></i>,
-      },
-      {
-        name: "NextJS",
-        icon: <i class="devicon-nextjs-original-wordmark colored"></i>,
-      },
-      {
-        name: "Javascript",
-        icon: <i class="devicon-javascript-original-wordmark colored"></i>,
+        name: "National Institute of fashion technology, India",
+        icon: require("../../assets/images/NIFT.png"),
       },
     ],
   },
   {
-    type: "Backend",
+    type: "B.tech Computer Science & Engineering",
     list: [
       {
         name: "C++",

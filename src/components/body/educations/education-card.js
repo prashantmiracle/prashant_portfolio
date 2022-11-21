@@ -1,7 +1,7 @@
 import React from "react";
 import "./education-card.css";
 
-export default function educationCard({ education }) {
+export default function EducationCard({ education }) {
   return (
     <div className="education-card">
       <div className="education-icon">{education.icon}</div>

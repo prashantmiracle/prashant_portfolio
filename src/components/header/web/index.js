@@ -5,6 +5,11 @@ export function Web() {
   return (
     <div className="web">
       <div className="web-option">
+        <a href="#educations">
+        <i class="fi fi-rr-graduation-cap"></i>Education
+        </a>
+      </div>
+      <div className="web-option">
         <a href="#projects">
           <i class="fi fi-rr-edit-alt option-icon"></i>Projects
         </a>
