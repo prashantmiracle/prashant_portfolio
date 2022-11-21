@@ -24,3 +24,7 @@
     font-size: 60px;
   }
 }
+a {
+  text-decoration: none;
+  color: rgb(104, 25, 25);
+}

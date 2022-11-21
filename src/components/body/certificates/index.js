@@ -22,6 +22,14 @@ export function Certificates() {
                   <br />
                   {item.batch} <br />
                   {item.CGPA}
+                  <br />
+                  <a
+                    href={item.Certificates}
+                    target="_blank"
+                    rel="noreferrer noopener"
+                  >
+                    Download Certificate
+                  </a>
                 </label>
               </label>
 

@@ -6,6 +6,8 @@ export default function CertificateCard({ certificate }) {
     <div className="certificate-card">
       <div className="certificate-icon">
         <img src={certificate.icon} alt="" />
+
+        
       </div>
       {/* <div className="education-name">{education.name}</div> */}
     </div>
