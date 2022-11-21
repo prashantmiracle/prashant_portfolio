@@ -3,29 +3,34 @@ export const SkillsData = [
     type: "Technologies",
     list: [
       {
+        name: "Canva",
+        icon: require("../../assets/images/canva.png"),
+      },
+      {
         name: "MERN",
         icon: require("../../assets/images/mern.png"),
       },
-
+      {
+        name: "Machine Learning",
+        icon: require("../../assets/images/ML.png"),
+      },
+      {
+        name: "Excel",
+        icon: require("../../assets/images/excel.png"),
+      },
       {
         name: "Python",
         icon: require("../../assets/images/python.png"),
       },
+
       {
-        name: "Canva",
-        icon: <i class="devicon-canva-original colored"></i>,
+        name: "Fast React Systems ",
+        icon: require("../../assets/images/FR.png"),
       },
+
       {
-        name: "GIT",
-        icon: <i class="devicon-git-plain colored"></i>,
-      },
-      {
-        name: "Numpy",
-        icon: <i class="devicon-numpy-original colored"></i>,
-      },
-      {
-        name: "Postgresql",
-        icon: <i class="devicon-postgresql-plain colored"></i>,
+        name: "Datatex - Garment ERP ",
+        icon: require("../../assets/images/dt.png"),
       },
       {
         name: "Anaconda",
@@ -43,6 +48,10 @@ export const SkillsData = [
       {
         name: "E-com Operations",
         icon: require("../../assets/images/ecom.png"),
+      },
+      {
+        name: "Social Media",
+        icon: require("../../assets/images/social.png"),
       },
     ],
   },
