@@ -19,15 +19,17 @@ export const SkillsData = [
         icon: require("../../assets/images/excel.png"),
       },
       {
+        name: "R",
+        icon: require("../../assets/images/R.png"),
+      },
+      {
         name: "Python",
         icon: require("../../assets/images/python.png"),
       },
-
       {
         name: "Fast React Systems ",
         icon: require("../../assets/images/FR.png"),
       },
-
       {
         name: "Datatex - Garment ERP ",
         icon: require("../../assets/images/dt.png"),
@@ -48,6 +50,10 @@ export const SkillsData = [
       {
         name: "Social Media",
         icon: require("../../assets/images/social.png"),
+      },
+      {
+        name: "Photography",
+        icon: require("../../assets/images/photo.png"),
       },
     ],
   },
