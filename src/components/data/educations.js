@@ -21,4 +21,15 @@ export const EducationsData = [
       },
     ],
   },
+  {
+    College: "Majhighariani Institute of Technology and Science, Rayagada",
+    type: "B.Tech in Computer Science and Engineering ",
+    batch: "Batch : 2005-09 ",
+    CGPA: "CGPA: 7.01",
+    list: [
+      {
+        icon: require("../../assets/images/MITS.png"),
+      },
+    ],
+  },
 ];

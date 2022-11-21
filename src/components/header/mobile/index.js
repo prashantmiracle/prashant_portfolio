@@ -8,6 +8,11 @@ export function Mobile({ isOpen, setIsopen }) {
       </div>
 
       <div className="mobile-options">
+      <div className="mobile-option">
+          <a href="#skills">
+            <i class="fi fi-rr-laptop option-icon"></i>Skills
+          </a>
+        </div>
         <div className="mobile-option">
           <a href="#educations">
             <i class="fi fi-rr-graduation-cap"></i>Education

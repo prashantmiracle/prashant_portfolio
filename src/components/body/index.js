@@ -14,14 +14,15 @@ export default function Body() {
       <section id="about">
         <About />
       </section>
-      <section id="educations">
-        <Educations />
-      </section>
-      <section id="projects">
-        <Projects />
-      </section>
+
       <section id="skills">
         <Skills />
+        <section id="educations">
+          <Educations />
+        </section>
+        <section id="projects">
+          <Projects />
+        </section>
       </section>
       <section id="work">
         <Work />
