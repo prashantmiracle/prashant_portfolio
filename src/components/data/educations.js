@@ -8,17 +8,17 @@ export const EducationsData = [
       },
     ],
   },
-  {
-    type: "B.tech Computer Science & Engineering",
-    list: [
-      {
-        name: "C++",
-        icon: <i class="devicon-cplusplus-original-wordmark colored"></i>,
-      },
-      {
-        name: "NodeJs",
-        icon: <i class="devicon-nodejs-original-wordmark colored"></i>,
-      },
-    ],
-  },
+  // {
+  //   type: "B.tech Computer Science & Engineering",
+  //   list: [
+  //     {
+  //       name: "C++",
+  //       icon: <i class="devicon-cplusplus-original-wordmark colored"></i>,
+  //     },
+  //     {
+  //       name: "NodeJs",
+  //       icon: <i class="devicon-nodejs-original-wordmark colored"></i>,
+  // //     },
+  //   ],
+  // },
 ];
