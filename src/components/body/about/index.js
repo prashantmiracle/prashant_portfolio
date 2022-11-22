@@ -9,8 +9,7 @@ export function About() {
         <div className="about-info">
           <span className="info-name">Prashant Kumar</span> loves to fuse
           fashion and technology. <br /> He is an expert in the fashion tech
-          domain. He loves to be around creative people and loves to hear their
-          stories & dreams.
+          domain.
         </div>
         <div className="about-photo">
           <img
