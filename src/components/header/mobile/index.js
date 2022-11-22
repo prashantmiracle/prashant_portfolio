@@ -30,7 +30,7 @@ export function Mobile({ isOpen, setIsopen }) {
         </div>
         <div className="mobile-option">
           <a href="#activities">
-            <i class="fi fi-ts-bowling ball"></i> activities
+          <i class="fi fi-rr-bowling"></i>activities
           </a>
         </div>
 

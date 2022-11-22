@@ -26,7 +26,7 @@ export function Web() {
       </div>
       <div className="web-option">
         <a href="#activities">
-          <i class="fi fi-ts-bowling ball"></i> activities
+          <i class="fi fi-rr-bowling"></i>activities
         </a>
       </div>
 
