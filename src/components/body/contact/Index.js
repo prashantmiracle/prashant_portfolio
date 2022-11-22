@@ -19,7 +19,14 @@ export function Contact(props) {
             <i class="fi-rr-cloud-download download-icon" />
             Download Resume
           </a>
+        
         </div>
+        <div className="download1">
+            <a href={require("../../../assets/images/SOP.pdf")}>
+              <i class="fi-rr-cloud-download download-icon" />
+              Download SOP
+            </a>
+          </div>
       </div>
     </div>
   );
