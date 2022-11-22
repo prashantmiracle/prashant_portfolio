@@ -25,6 +25,7 @@
   font-size: 20px;
   color: rgb(10, 4, 75);
   font-weight: 800;
+
 }
 @media only screen and (max-width: 720px) {
   .mobile-menu {
