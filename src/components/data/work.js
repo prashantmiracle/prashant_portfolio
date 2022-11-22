@@ -17,7 +17,7 @@ export const WorkData = [
     work: "My role in this project was to plan the upsizing project. I planned to improve production and marketing and we have upsized successfully.",
   },
   {
-    company: " One97 communications LTD (Paytm)",
+    company: " One97 communications Ltd. (Paytm)",
     designation: "Team Lead",
     dateJoining: "August 2015",
     dateEnd: "October 2016",
