@@ -12,7 +12,7 @@
   justify-content: flex-end;
 }
 .menu-icon {
-  font-size: 18px;
+  font-size: 11px;
 }
 .mobile-menu {
   display: none;
@@ -22,10 +22,9 @@
 }
 .logo {
   display: flex;
-  font-size: 20px;
+  font-size: 18px;
   color: rgb(10, 4, 75);
   font-weight: 800;
-
 }
 @media only screen and (max-width: 720px) {
   .mobile-menu {
