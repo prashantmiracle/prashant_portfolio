@@ -8,7 +8,6 @@ export function Web() {
         <a href="#skills">
           <i class="fi fi-rr-laptop option-icon"></i>Skills
         </a>
-        
       </div>
       <div className="web-option">
         <a href="#educations">
@@ -27,14 +26,19 @@ export function Web() {
       </div>
 
       <div className="web-option">
-        <a href="#projects">
-          <i class="fi fi-rr-edit-alt option-icon"></i>Projects
+        <a href="#work">
+          <i class="fi fi-rr-briefcase option-icon"></i> Work
+        </a>
+      </div>
+      <div className="web-option">
+        <a href="#internships">
+        <i class="fi fi-rr-building"></i>Internships
         </a>
       </div>
 
       <div className="web-option">
-        <a href="#work">
-          <i class="fi fi-rr-briefcase option-icon"></i> Work
+        <a href="#projects">
+          <i class="fi fi-rr-edit-alt option-icon"></i>Projects
         </a>
       </div>
 

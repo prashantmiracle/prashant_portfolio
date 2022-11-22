@@ -1,0 +1,32 @@
+.internship-card {
+  width: max-content;
+  padding: 8px 16px;
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 6px;
+  border-radius: 8px;
+}
+.internship-icon {
+  font-size: 80px;
+  max-width: 70%;
+  height: auto;
+}
+.internship-name {
+  font-size: 10px;
+}
+@media only screen and (max-width: 720px) {
+  .internship-card {
+    width: max-content;
+    height: 100px;
+  }
+  .internship-icon {
+    font-size: 60px;
+  }
+
+  .internship-name {
+    font-size: 10px;
+  }
+}

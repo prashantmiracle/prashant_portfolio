@@ -9,6 +9,7 @@ import { About } from "./about";
 import { Educations } from "./educations";
 import { Certificates } from "./certificates";
 import { Memberships } from "./memberships";
+import { Internships } from "./internships";
 
 export default function Body() {
   return (
@@ -19,22 +20,26 @@ export default function Body() {
 
       <section id="skills">
         <Skills />
-        <section id="educations">
-          <Educations />
-        </section>
-        <section id="certificates">
-          <Certificates />
-        </section>
-        <section id="memberships">
-          <Memberships />
-        </section>
-        <section id="projects">
-          <Projects />
-        </section>
+      </section>
+      <section id="educations">
+        <Educations />
+      </section>
+      <section id="certificates">
+        <Certificates />
+      </section>
+      <section id="memberships">
+        <Memberships />
       </section>
       <section id="work">
         <Work />
       </section>
+      <section id="internships">
+        <Internships />
+      </section>
+      <section id="projects">
+        <Projects />
+      </section>
+
       <section id="contact">
         <Contact />
       </section>

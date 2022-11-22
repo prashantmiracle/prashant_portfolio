@@ -1,7 +1,7 @@
 .mobile {
   background-color: white;
-  height: 70vh;
-  width: 60vw;
+  height: 60vh;
+  width: 40vw;
   position: absolute;
   right: 0px;
   top: -6px;
@@ -25,7 +25,7 @@
   height: 100%;
 }
 .mobile-option {
-  font-size: 24px;
+  font-size: 15px;
   margin: 12px 0px;
   display: flex;
 }

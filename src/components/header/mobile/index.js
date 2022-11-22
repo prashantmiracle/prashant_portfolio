@@ -25,18 +25,24 @@ export function Mobile({ isOpen, setIsopen }) {
         </div>
         <div className="mobile-option">
           <a href="#memberships">
-          <i class="fi fi-rr-users"></i>Memberships
-          </a>
-        </div>
-        <div className="mobile-option">
-          <a href="#projects">
-            <i class="fi fi-rr-edit-alt option-icon"></i>Projects
+            <i class="fi fi-rr-users"></i>Memberships
           </a>
         </div>
 
         <div className="mobile-option">
           <a href="#work">
             <i class="fi fi-rr-briefcase option-icon"></i> Work
+          </a>
+        </div>
+
+        <div className="mobile-option">
+          <a href="#internships">
+            <i class="fi fi-rr-building"></i>Internships
+          </a>
+        </div>
+        <div className="mobile-option">
+          <a href="#projects">
+            <i class="fi fi-rr-edit-alt option-icon"></i>Projects
           </a>
         </div>
 
