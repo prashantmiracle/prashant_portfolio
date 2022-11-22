@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8c3d6b1.css",
-    "main.js": "/static/js/main.2c81b3b2.js",
+    "main.css": "/static/css/main.de1d0425.css",
+    "main.js": "/static/js/main.7a537cd5.js",
     "static/js/787.8f6117cc.chunk.js": "/static/js/787.8f6117cc.chunk.js",
     "static/media/NSCI.pdf": "/static/media/NSCI.b047df9ab313506698f8.pdf",
     "static/media/153.pdf": "/static/media/153.0e72d2c1bcc4367bbc36.pdf",
@@ -10,6 +10,7 @@
     "static/media/coding.png": "/static/media/coding.8abbd2225f2f1a2be07d.png",
     "static/media/UN.pdf": "/static/media/UN.21ef6007c15bd0582342.pdf",
     "static/media/edaplaystore.png": "/static/media/edaplaystore.73a62cef45be80f2fb02.png",
+    "static/media/SOP.pdf": "/static/media/SOP.839974ea67e5c9fe7301.pdf",
     "static/media/calc.png": "/static/media/calc.eba990490db5178c40e2.png",
     "static/media/github.png": "/static/media/github.e09e39a58d88a784c72f.png",
     "static/media/aauraa.png": "/static/media/aauraa.9f83b2256237c4911873.png",
@@ -25,12 +26,12 @@
     "static/media/python.png": "/static/media/python.0529c10edf36212b4d49.png",
     "static/media/ecom.png": "/static/media/ecom.b1d455e00782a0312330.png",
     "index.html": "/index.html",
-    "main.b8c3d6b1.css.map": "/static/css/main.b8c3d6b1.css.map",
-    "main.2c81b3b2.js.map": "/static/js/main.2c81b3b2.js.map",
+    "main.de1d0425.css.map": "/static/css/main.de1d0425.css.map",
+    "main.7a537cd5.js.map": "/static/js/main.7a537cd5.js.map",
     "787.8f6117cc.chunk.js.map": "/static/js/787.8f6117cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8c3d6b1.css",
-    "static/js/main.2c81b3b2.js"
+    "static/css/main.de1d0425.css",
+    "static/js/main.7a537cd5.js"
   ]
 }
