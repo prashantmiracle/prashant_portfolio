@@ -2,7 +2,7 @@ export const CertificatesData = [
   {
     College: "National Safety Council",
     type: "Industrial Safety",
-    batch: "Batch : 2010-12 ",
+    batch: "Duration 14/4/2020 to 3/05/2020",
     CGPA: "Grade A ",
     Certificates: require("../../assets/images/NSCI.pdf"),
     list: [
@@ -38,8 +38,8 @@ export const CertificatesData = [
   },
   {
     College: "Udemy",
-    type: "The Complete Goods and Services Tax Certificate Course",
-    batch: "Completed on 09/21/2021 ",
+    type: "The Complete Goods and Services Tax",
+    batch: "Date of Completion 09/21/2021 ",
     Certificates:
       "https://www.udemy.com/certificate/UC-e37ae644-b9af-4988-a4fe-82cd477808cc/",
     list: [

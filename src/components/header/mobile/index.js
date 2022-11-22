@@ -24,6 +24,11 @@ export function Mobile({ isOpen, setIsopen }) {
           </a>
         </div>
         <div className="mobile-option">
+          <a href="#memberships">
+          <i class="fi fi-rr-users"></i>Memberships
+          </a>
+        </div>
+        <div className="mobile-option">
           <a href="#projects">
             <i class="fi fi-rr-edit-alt option-icon"></i>Projects
           </a>

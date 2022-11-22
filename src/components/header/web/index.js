@@ -20,6 +20,12 @@ export function Web() {
         </a>
       </div>
       <div className="web-option">
+        <a href="#memberships">
+          <i class="fi fi-rr-users"></i>Memberships
+        </a>
+      </div>
+
+      <div className="web-option">
         <a href="#projects">
           <i class="fi fi-rr-edit-alt option-icon"></i>Projects
         </a>

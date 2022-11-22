@@ -8,6 +8,7 @@ import { Contact } from "./contact/Index";
 import { About } from "./about";
 import { Educations } from "./educations";
 import { Certificates } from "./certificates";
+import { Memberships } from "./memberships";
 
 export default function Body() {
   return (
@@ -23,6 +24,9 @@ export default function Body() {
         </section>
         <section id="certificates">
           <Certificates />
+        </section>
+        <section id="memberships">
+          <Memberships />
         </section>
         <section id="projects">
           <Projects />
