@@ -1,0 +1,30 @@
+.activities {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.activities-section {
+  display: flex;
+  justify-content: space-between;
+  margin: 12px 0px;
+}
+.activities-section-title {
+  font-size: 24px;
+  font-weight: 600;
+}
+.activities-list {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 70%;
+  justify-content: flex-end;
+}
+@media only screen and (max-width: 720px) {
+  .activities-list {
+    max-width: 100%;
+    justify-content: center;
+  }
+  .activities-section {
+    flex-direction: column;
+    align-items: center;
+  }
+}

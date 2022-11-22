@@ -1,0 +1,32 @@
+.activitie-card {
+  width: max-content;
+  padding: 8px 16px;
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 6px;
+  border-radius: 8px;
+}
+.activitie-icon {
+  font-size: 80px;
+  max-width: 70%;
+  height: auto;
+}
+.activitie-name {
+  font-size: 12px;
+}
+@media only screen and (max-width: 720px) {
+  .activitie-card {
+    width: max-content;
+    height: 100px;
+  }
+  .activitie-icon {
+    font-size: 60px;
+  }
+
+  .activitie-name {
+    font-size: 12px;
+  }
+}
