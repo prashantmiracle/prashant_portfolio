@@ -8,6 +8,7 @@ export function Web() {
         <a href="#skills">
           <i class="fi fi-rr-laptop option-icon"></i>Skills
         </a>
+        
       </div>
       <div className="web-option">
         <a href="#educations">

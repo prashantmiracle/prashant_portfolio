@@ -15,7 +15,6 @@ export const CertificatesData = [
     College: "Simplilearn",
     type: "Masters Program in Data Science",
     batch: "Certificate ID: 25983703 ",
-    CGPA: "Grade A ",
     Certificates:
       "https://success.simplilearn.com/0cc736a5-b3e3-4e4d-8368-17a6a5221443",
     list: [
