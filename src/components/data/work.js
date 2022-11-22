@@ -5,7 +5,7 @@ export const WorkData = [
     dateJoining: "March 2018",
     dateEnd: "Present",
     CompanyLogo: require("../../assets/images/aayushmaa.png"),
-    work: "We help companies in consulting, sourcing and education.we work with fashion businesses of all sizes, from large companies to small startups. We have a team of experts who can help you with every aspect of your business, from marketing and branding to product development and sourcing. We also offer courses and training programs that help employees improve their skills and knowledge.",
+    work: "We are in the technology business. We help companies in fashion and retail industries to grow their business with technology.",
   },
 
   {
@@ -14,6 +14,22 @@ export const WorkData = [
     dateJoining: "November 2016",
     dateEnd: "March 2017",
     CompanyLogo: require("../../assets/images/aauraa.png"),
-    work: "My responsibilities include Liaising with departments to discuss their requirements and ensuring that these are met, Monitoring production to identify any issues which could impact on the quality or quantity of the product,Managing a team of production staff, ensuring that they are trained and motivated,Organising the efficient dispatch of finished products,Implementation of Storyboard ERP in factory ,Managing health and safety in the workplace and Investigating and resolving customer complaints.I have developed a strong working relationship with customers, suppliers and internal staff.",
+    work: "My role in this project was to plan the upsizing project. I planned to improve production and marketing and we have upsized successfully.",
+  },
+  {
+    company: " One97 communications LTD (Paytm)",
+    designation: "Team Lead",
+    dateJoining: "August 2015",
+    dateEnd: "October 2016",
+    CompanyLogo: require("../../assets/images/paytm.png"),
+    work: "My role was to reduce the return rate of products, which was a major issue at Paytm. I worked with Category Team to help them understand their quality issues. I also worked with Operations to understand how we could make the process more efficient.",
+  },
+  {
+    company: " ESSELL Sourcing Co, New Delhi",
+    designation: "Sr. Merchandiser",
+    dateJoining: "December 2013",
+    dateEnd: "March 2015",
+    CompanyLogo: require("../../assets/images/ESSELL.png"),
+    work: "When I first started at the company my main focus was on the merchandising side. I had a lot of fun handling client accounts but once I had those up and running I took on a bigger role of marketing and business development.",
   },
 ];
