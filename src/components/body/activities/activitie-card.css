@@ -17,7 +17,7 @@
 .activitie-name {
   font-size: 12px;
 }
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 800px) {
   .activitie-card {
     width: max-content;
     height: 100px;

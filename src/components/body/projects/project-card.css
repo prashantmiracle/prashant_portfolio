@@ -55,7 +55,7 @@
   mask-repeat: 3px;
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 800px) {
   .project-photo {
     width: 70%;
   }

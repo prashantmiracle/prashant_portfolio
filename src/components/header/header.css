@@ -26,7 +26,7 @@
   color: rgb(10, 4, 75);
   font-weight: 800;
 }
-@media only screen and (max-width: 769px) {
+@media only screen and (max-width: 800px) {
   .mobile-menu {
     display: flex;
   }
