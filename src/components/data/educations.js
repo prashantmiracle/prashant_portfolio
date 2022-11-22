@@ -12,7 +12,7 @@ export const EducationsData = [
   },
   {
     College: "BGMEA University of Fashion & Technology,Bangladesh",
-    type: "Post Graduation Research 2012 ",
+    type: "Post Graduation Research : January-June 2012 ",
     batch: "Topic : Modern Merchandising Management Techniques ",
     CGPA: "Achivement: Selected in first Industry Linkage Program b/w NIFT India & BUFT Bangladesh ",
     list: [
