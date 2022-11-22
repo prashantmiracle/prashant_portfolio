@@ -4,12 +4,12 @@ import { ActivitiesData } from "../../data/activities";
 import ActivitieCard from "./activitie-card";
 import "./activities.css";
 
-export function Internships() {
+export function Activities() {
   const data = ActivitiesData;
   return (
     <div className="activities">
       <Seperator />
-      <label className="section-title">Internships</label>
+      <label className="section-title">Extra-academic activities</label>
       <div className="activities-container">
         {data.map((item) => {
           return (

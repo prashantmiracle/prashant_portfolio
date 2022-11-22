@@ -28,6 +28,11 @@ export function Mobile({ isOpen, setIsopen }) {
             <i class="fi fi-rr-users"></i>Memberships
           </a>
         </div>
+        <div className="mobile-option">
+          <a href="#activities">
+            <i class="fi fi-ts-bowling ball"></i> activities
+          </a>
+        </div>
 
         <div className="mobile-option">
           <a href="#work">

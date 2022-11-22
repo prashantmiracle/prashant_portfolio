@@ -24,6 +24,11 @@ export function Web() {
           <i class="fi fi-rr-users"></i>Memberships
         </a>
       </div>
+      <div className="web-option">
+        <a href="#activities">
+          <i class="fi fi-ts-bowling ball"></i> activities
+        </a>
+      </div>
 
       <div className="web-option">
         <a href="#work">
@@ -32,7 +37,7 @@ export function Web() {
       </div>
       <div className="web-option">
         <a href="#internships">
-        <i class="fi fi-rr-building"></i>Internships
+          <i class="fi fi-rr-building"></i>Internships
         </a>
       </div>
 
