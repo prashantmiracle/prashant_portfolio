@@ -15,7 +15,7 @@
   height: auto;
 }
 .internship-name {
-  font-size: 10px;
+  font-size: 12px;
 }
 @media only screen and (max-width: 720px) {
   .internship-card {
@@ -27,6 +27,6 @@
   }
 
   .internship-name {
-    font-size: 10px;
+    font-size: 12px;
   }
 }

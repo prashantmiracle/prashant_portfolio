@@ -15,7 +15,7 @@
   height: auto;
 }
 .skill-name {
-  font-size: 10px;
+  font-size: 12px;
 }
 @media only screen and (max-width: 720px) {
   .skill-card {
@@ -27,6 +27,6 @@
   }
 
   .skill-name {
-    font-size: 10px;
+    font-size: 12px;
   }
 }
