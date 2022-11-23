@@ -3,8 +3,8 @@ export const ActivitiesData = [
     type: "Paper Presentation",
     list: [
       {
-        name: "Coal India-May-June 2007",
-        icon: require("../../assets/images/coal.png"),
+        name: "Advaita 07",
+        icon: require("../../assets/images/giet.png"),
       },
     ],
   },
@@ -12,8 +12,8 @@ export const ActivitiesData = [
     type: "Workshop ",
     list: [
       {
-        name: "RSWM LTD-Dec- Jan 2011",
-        icon: require("../../assets/images/RSWM.png"),
+        name: "Anveshan 2009",
+        icon: require("../../assets/images/mirc.png"),
       },
     ],
   },
