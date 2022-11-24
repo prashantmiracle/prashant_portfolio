@@ -32,4 +32,12 @@ export const WorkData = [
     CompanyLogo: require("../../assets/images/ESSELL.png"),
     work: "When I first started at the company my main focus was on the merchandising side. I had a lot of fun handling client's accounts but once I had those up and running I took on a bigger role of marketing and business development.",
   },
+  {
+    company: " CyberQ consulting Pvt Ltd.",
+    designation: "Program Assistant",
+    dateJoining: "February 2010",
+    dateEnd: "July 2010",
+    CompanyLogo: require("../../assets/images/cyber.png"),
+    work: "I work as a program assistant in the district transport office. I am responsible for implementing and maintaining the Sarathi and Vahan databases.",
+  },
 ];
