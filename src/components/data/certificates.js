@@ -47,4 +47,15 @@ export const CertificatesData = [
       },
     ],
   },
+  {
+    College: "IIT Gandhinagar",
+    type: "Energy Efficienccy: An overview",
+    batch: "Attended on October 23-24 ,2010  ",
+    Certificates: require("../../assets/images/IIT.pdf"),
+    list: [
+      {
+        icon: require("../../assets/images/IITLOGO.png"),
+      },
+    ],
+  },
 ];
