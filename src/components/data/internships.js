@@ -3,6 +3,10 @@ export const InternshipsData = [
     type: "IT",
     list: [
       {
+        name: "FSS, Vizag -March-April 2009",
+        icon: require("../../assets/images/first.png"),
+      },
+      {
         name: "Coal India-May-June 2007",
         icon: require("../../assets/images/coal.png"),
       },
