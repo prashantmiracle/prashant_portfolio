@@ -10,10 +10,14 @@ export const InternshipsData = [
         name: "IOCL, Begusarai -Jan-Feb 2008",
         icon: require("../../assets/images/IOCL.png"),
       },
+      {
+        name: "MSME Rayagada 2008",
+        icon: require("../../assets/images/msme.png"),
+      },
     ],
   },
   {
-    type: "Fashion ",
+    type: "Fashion| LSCM ",
     list: [
       {
         name: "RSWM LTD-Dec- Jan 2011",
@@ -26,6 +30,10 @@ export const InternshipsData = [
       {
         name: "Soma Textile & Industries-May-Aug 2011",
         icon: require("../../assets/images/SOMA.png"),
+      },
+      {
+        name: "Virgo marine-March 14-16 ,2011",
+        icon: require("../../assets/images/virgo.png"),
       },
     ],
   },
