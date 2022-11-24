@@ -24,8 +24,9 @@ export const EducationsData = [
   {
     College: "Majhighariani Institute of Technology and Science, Rayagada",
     type: "B.Tech in Computer Science and Engineering ",
-    batch: "Batch : 2005-09 ",
-    CGPA: "CGPA: 7.01",
+    batch:
+      "Achivement: Founder of MITSALERT (1st M-alert system in Orissa’s private Engineering. college) ",
+    CGPA: "Batch : 2005-09 CGPA: 7.01",
     list: [
       {
         icon: require("../../assets/images/MITS.png"),
