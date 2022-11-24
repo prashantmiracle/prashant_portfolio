@@ -30,7 +30,7 @@ export const WorkData = [
     dateJoining: "December 2013",
     dateEnd: "March 2015",
     CompanyLogo: require("../../assets/images/ESSELL.png"),
-    work: "When I first started at the company my main focus was on the merchandising side. I had a lot of fun handling client's accounts but once I had those up and running I took on a bigger role of marketing and business development.",
+    work: "When I first started at the company, my focus was on the merchandising side. I had a lot of fun handling clients' accounts, but once I had those up and running, I took on a bigger role in marketing and business development. In 2015-16, I achieved rising star status and improved processes through kaizen implementation.",
   },
   {
     company: " CyberQ consulting Pvt Ltd.",
