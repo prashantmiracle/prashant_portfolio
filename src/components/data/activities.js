@@ -14,6 +14,14 @@ export const ActivitiesData = [
         name: "Samavesh 08 ",
         icon: require("../../assets/images/uce.png"),
       },
+      {
+        name: " IAS debate competition 04",
+        icon: require("../../assets/images/IAS.png"),
+      },
+      {
+        name: " SFS Bihar 98",
+        icon: require("../../assets/images/SFS.png"),
+      },
     ],
   },
   {
