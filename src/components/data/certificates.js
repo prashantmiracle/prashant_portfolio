@@ -1,5 +1,17 @@
 export const CertificatesData = [
   {
+    College: "Udemy",
+    type: "The Complete Goods and Services Tax",
+    batch: "Date of Completion 09/21/2021 ",
+    Certificates:
+      "https://www.udemy.com/certificate/UC-e37ae644-b9af-4988-a4fe-82cd477808cc/",
+    list: [
+      {
+        icon: require("../../assets/images/udemy.png"),
+      },
+    ],
+  },
+  {
     College: "National Safety Council",
     type: "Industrial Safety",
     batch: "Duration 14/4/2020 to 3/05/2020",
@@ -35,18 +47,7 @@ export const CertificatesData = [
       },
     ],
   },
-  {
-    College: "Udemy",
-    type: "The Complete Goods and Services Tax",
-    batch: "Date of Completion 09/21/2021 ",
-    Certificates:
-      "https://www.udemy.com/certificate/UC-e37ae644-b9af-4988-a4fe-82cd477808cc/",
-    list: [
-      {
-        icon: require("../../assets/images/udemy.png"),
-      },
-    ],
-  },
+
   {
     College: "IIT Gandhinagar",
     type: "Energy Efficienccy: An overview",
