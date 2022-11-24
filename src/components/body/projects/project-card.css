@@ -24,7 +24,7 @@
 }
 .tag {
   padding: 4px 8px;
-  background-color: aqua;
+  background-color: rgb(163, 231, 202);
   border-radius: 4px;
   margin-right: 6px;
   margin-bottom: 4px;
@@ -42,7 +42,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: aqua;
+  background-color: rgb(163, 231, 202);
   width: max-content;
   padding: 4px 8px;
   border-radius: 4px;

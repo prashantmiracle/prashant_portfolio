@@ -1,12 +1,12 @@
 export const ProjectData = [
   {
     id: 1,
-    title: "Calculator",
+    title: "Modern Merchandising Management Techniques”",
     about:
-      "Calculator developed on python language including factorial function",
-    tags: ["Python", "Tkinter"],
-    github: "https://github.com/prashantmiracle/calculator",
-    image: require("../../assets/images/calc.png"),
+      "The purpose of this research is to develop a framework to support management decision making about ERP Implementation and capabilities to manage merchandising. This study will provide insights into how to better manage ERP implementations, as well as what capabilities are most important for managing merchandising processes.",
+    tags: ["Merchandising", "ERP"],
+    github: "https://github.com/prashantmiracle/MMMT",
+    image: require("../../assets/images/merchant.png"),
   },
   {
     id: 2,
