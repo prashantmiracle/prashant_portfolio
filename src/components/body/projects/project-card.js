@@ -15,7 +15,12 @@ export function ProjectCard({ project }) {
             </a>
           )}
           {project.github && (
-            <a className="project-links" href={project.github}>
+            <a
+              className="project-links"
+              href={project.github}
+              target="_blank"
+              rel="noreferrer noopener"
+            >
               <div className="link-button">
                 <i class="devicon-github-original colored"></i>Github
               </div>
