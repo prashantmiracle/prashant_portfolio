@@ -1,5 +1,17 @@
 export const CertificatesData = [
   {
+    College: "Google Analytics Academy",
+    type: "Google Tag Manager Fundamentals",
+    batch: "Certificate expires January 7, 2025",
+    Certificates:
+      "https://analytics.google.com/analytics/academy/certificate/F68tP5iZRW2OLiUytDupNQ",
+    list: [
+      {
+        icon: require("../../assets/images/google.png"),
+      },
+    ],
+  },
+  {
     College: "Udemy",
     type: "The Complete Goods and Services Tax",
     batch: "Date of Completion 09/21/2021 ",
@@ -32,18 +44,6 @@ export const CertificatesData = [
     list: [
       {
         icon: require("../../assets/images/simp.png"),
-      },
-    ],
-  },
-  {
-    College: "Google Analytics Academy",
-    type: "Google Tag Manager Fundamentals",
-    batch: "Certificate expires January 7, 2025",
-    Certificates:
-      "https://analytics.google.com/analytics/academy/certificate/F68tP5iZRW2OLiUytDupNQ",
-    list: [
-      {
-        icon: require("../../assets/images/google.png"),
       },
     ],
   },
