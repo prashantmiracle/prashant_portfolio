@@ -15,6 +15,7 @@ export const EducationsData = [
     type: "Post Graduation Research : January-June 2012 ",
     batch: "Topic : Modern Merchandising Management Techniques ",
     CGPA: "Achivement: Selected in first Industry Linkage Program b/w NIFT India & BUFT Bangladesh ",
+
     list: [
       {
         icon: require("../../assets/images/BUFT.png"),
@@ -27,6 +28,7 @@ export const EducationsData = [
     batch:
       "Achivement: Founder of MITSALERT (1st M-alert system in Orissa’s private Engineering. college) ",
     CGPA: "Batch : 2005-09 CGPA: 7.01",
+
     list: [
       {
         icon: require("../../assets/images/MITS.png"),

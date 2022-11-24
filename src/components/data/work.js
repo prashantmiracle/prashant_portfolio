@@ -38,6 +38,6 @@ export const WorkData = [
     dateJoining: "February 2010",
     dateEnd: "July 2010",
     CompanyLogo: require("../../assets/images/cyber.png"),
-    work: "I work as a program assistant in the district transport office. I am responsible for implementing and maintaining the Sarathi and Vahan databases.",
+    work: "I work as a program assistant in the district transport office,munger. I am responsible for implementing and maintaining the Sarathi and Vahan databases.",
   },
 ];

@@ -32,7 +32,7 @@ export const InternshipsData = [
         icon: require("../../assets/images/JM.png"),
       },
       {
-        name: "Soma Textile & Industries-May-Aug 2011",
+        name: "Soma Textile-May-Aug 2011",
         icon: require("../../assets/images/SOMA.png"),
       },
       {
