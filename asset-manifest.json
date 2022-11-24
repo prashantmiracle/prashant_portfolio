@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8a9f213f.css",
-    "main.js": "/static/js/main.78556d51.js",
+    "main.css": "/static/css/main.16558829.css",
+    "main.js": "/static/js/main.9beb84b2.js",
     "static/js/787.f83fed60.chunk.js": "/static/js/787.f83fed60.chunk.js",
     "static/media/IIT.pdf": "/static/media/IIT.4a9d8ba2faeeffd0f9b7.pdf",
     "static/media/NSCI.pdf": "/static/media/NSCI.b047df9ab313506698f8.pdf",
@@ -11,7 +11,6 @@
     "static/media/coding.png": "/static/media/coding.8abbd2225f2f1a2be07d.png",
     "static/media/UN.pdf": "/static/media/UN.21ef6007c15bd0582342.pdf",
     "static/media/edaplaystore.png": "/static/media/edaplaystore.73a62cef45be80f2fb02.png",
-    "static/media/calc.png": "/static/media/calc.eba990490db5178c40e2.png",
     "static/media/SFS.png": "/static/media/SFS.e5eb6720d36b34a33be0.png",
     "static/media/IAS.png": "/static/media/IAS.872dded424a088fc75d9.png",
     "static/media/github.png": "/static/media/github.e09e39a58d88a784c72f.png",
@@ -35,12 +34,12 @@
     "static/media/python.png": "/static/media/python.0529c10edf36212b4d49.png",
     "static/media/ecom.png": "/static/media/ecom.b1d455e00782a0312330.png",
     "index.html": "/index.html",
-    "main.8a9f213f.css.map": "/static/css/main.8a9f213f.css.map",
-    "main.78556d51.js.map": "/static/js/main.78556d51.js.map",
+    "main.16558829.css.map": "/static/css/main.16558829.css.map",
+    "main.9beb84b2.js.map": "/static/js/main.9beb84b2.js.map",
     "787.f83fed60.chunk.js.map": "/static/js/787.f83fed60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a9f213f.css",
-    "static/js/main.78556d51.js"
+    "static/css/main.16558829.css",
+    "static/js/main.9beb84b2.js"
   ]
 }
