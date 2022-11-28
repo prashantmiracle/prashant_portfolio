@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.16558829.css",
+    "main.css": "/static/css/main.a841543b.css",
     "main.js": "/static/js/main.2027846b.js",
     "static/js/787.f83fed60.chunk.js": "/static/js/787.f83fed60.chunk.js",
     "static/media/IIT.pdf": "/static/media/IIT.4a9d8ba2faeeffd0f9b7.pdf",
@@ -34,12 +34,12 @@
     "static/media/python.png": "/static/media/python.0529c10edf36212b4d49.png",
     "static/media/ecom.png": "/static/media/ecom.b1d455e00782a0312330.png",
     "index.html": "/index.html",
-    "main.16558829.css.map": "/static/css/main.16558829.css.map",
+    "main.a841543b.css.map": "/static/css/main.a841543b.css.map",
     "main.2027846b.js.map": "/static/js/main.2027846b.js.map",
     "787.f83fed60.chunk.js.map": "/static/js/787.f83fed60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16558829.css",
+    "static/css/main.a841543b.css",
     "static/js/main.2027846b.js"
   ]
 }
