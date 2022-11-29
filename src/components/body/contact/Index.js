@@ -10,8 +10,8 @@ export function Contact(props) {
       <label className="section-title">Contact</label>
       <div className="contact-container">
         <div className="contact-left">
+          M : +91 870-941-4925
           <p>Connect me on any of the platform </p>
-
           <SocialContact />
         </div>
         <div className="download">
