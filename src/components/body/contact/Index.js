@@ -11,6 +11,8 @@ export function Contact(props) {
       <div className="contact-container">
         <div className="contact-left">
           M : +91 870-941-4925
+          <br />
+          E: getprashant@yahoo.com
           <p>Connect me on any of the platform </p>
           <SocialContact />
         </div>
