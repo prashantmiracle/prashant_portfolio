@@ -47,6 +47,18 @@ export const CertificatesData = [
       },
     ],
   },
+  {
+    College: "Almabetter",
+    type: "Data Analysis",
+    batch: "Certificate ID: 10084605725056 ",
+    Certificates:
+      "https://certificates.almabetter.com/en/verify/10084605725056",
+    list: [
+      {
+        icon: require("../../assets/images/alma.png"),
+      },
+    ],
+  },
 
   {
     College: "IIT Gandhinagar",
