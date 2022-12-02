@@ -1,5 +1,17 @@
 export const CertificatesData = [
   {
+    College: "Almabetter",
+    type: "Data Analysis",
+    batch: "Certificate ID: 10084605725056 ",
+    Certificates:
+      "https://certificates.almabetter.com/en/verify/10084605725056",
+    list: [
+      {
+        icon: require("../../assets/images/alma.png"),
+      },
+    ],
+  },
+  {
     College: "Google Analytics Academy",
     type: "Google Tag Manager Fundamentals",
     batch: "Certificate expires January 7, 2025",
@@ -44,18 +56,6 @@ export const CertificatesData = [
     list: [
       {
         icon: require("../../assets/images/simp.png"),
-      },
-    ],
-  },
-  {
-    College: "Almabetter",
-    type: "Data Analysis",
-    batch: "Certificate ID: 10084605725056 ",
-    Certificates:
-      "https://certificates.almabetter.com/en/verify/10084605725056",
-    list: [
-      {
-        icon: require("../../assets/images/alma.png"),
       },
     ],
   },
