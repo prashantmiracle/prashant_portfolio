@@ -1,10 +1,10 @@
 export const CertificatesData = [
   {
     College: "Almabetter",
-    type: "Data Analysis",
-    batch: "Certificate ID: 10084605725056 ",
+    type: " Competency Challenge.",
+    batch: "Skills: Programming Concepts",
     Certificates:
-      "https://certificates.almabetter.com/en/verify/10084605725056",
+      "https://certificates.almabetter.com/en/credentials/prashantkumar886814",
     list: [
       {
         icon: require("../../assets/images/alma.png"),
